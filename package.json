@@ -1,0 +1,8 @@
+{
+  "name": "html-linker",
+  "version": "0.0.1",
+  "main": "link.js",
+  "dependencies": {
+    "js-linker": "~0.0.2"
+  }
+}
